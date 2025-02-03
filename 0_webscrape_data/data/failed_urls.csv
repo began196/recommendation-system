@@ -1,0 +1,8 @@
+failed_url,error_type
+https://www.japancentre.com/en/products/19980-nissin-raoh-instant-tonkotsu-soy-sauce-ramen,'NoneType' object has no attribute 'get_text'
+https://www.japancentre.com/en/products/19610-yamamoto-seifun-tanuki-oyaji-no-ippin-tonkotsu-style-spicy-ramen-noodles,'NoneType' object has no attribute 'get_text'
+https://www.japancentre.com/en/products/19615-yamamoto-seifun-ponpoko-yakisoba-stir-fry-noodles,'NoneType' object has no attribute 'get_text'
+https://www.japancentre.com/en/products/19480-garak-instant-kimchi-ramen-multipack,'NoneType' object has no attribute 'get_text'
+https://www.japancentre.com/en/products/19475-young-poong-yopokki-cheese-topokki-rice-cakes,'NoneType' object has no attribute 'get_text'
+https://www.japancentre.com/en/products/19617-yamamoto-seifun-tanuki-oyaji-no-ippin-yakisoba-stir-fry-noodles,'NoneType' object has no attribute 'get_text'
+https://www.japancentre.com/en/products/19481-garak-instant-seafood-ramen,'NoneType' object has no attribute 'get_text'
